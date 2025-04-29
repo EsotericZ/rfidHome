@@ -4,6 +4,7 @@ Website to host the RFID Database and Control User access
 ## Future
 Pagination?
 Search Feature?
+UPDATE
 
 ## Database Backup
 ```
