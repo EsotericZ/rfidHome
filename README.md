@@ -12,3 +12,4 @@ mysqldump -u root -p rfid > rfidbackup.sql
 ```
 
 Run before uploading to git
+THIS IS NOT LIVE
